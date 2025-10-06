@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.20" />
+    <style>
+      :root {
+        --vp-c-bg: #fff;
+      }
+
+      [data-theme='dark'] {
+        --vp-c-bg: #1b1b1f;
+      }
+
+      html,
+      body {
+        background-color: var(--vp-c-bg);
+      }
+    </style>
+    <script>
+      const useChoice = localStorage.getItem('vuepress-color-scheme')
+      const systemStatus =
+        'matchMedia' in window
+          ? window.matchMedia('(prefers-color-scheme: dark)').matches
+          : false
+
+      if (useChoice === 'light') {
+        document.documentElement.dataset.theme = 'light'
+      } else if (useChoice === 'dark' || systemStatus) {
+        document.documentElement.dataset.theme = 'dark'
+      }
+    </script>
+    <title>My VuePress Site</title><meta name="description" content="A simple multipage VuePress site">
+    <link rel="preload" href="/cv/assets/style-B3-VMakp.css" as="style"><link rel="stylesheet" href="/cv/assets/style-B3-VMakp.css">
+    <link rel="modulepreload" href="/cv/assets/app-BGBpchYB.js"><link rel="modulepreload" href="/cv/assets/404.html-Dze-3zCs.js">
+    <link rel="prefetch" href="/cv/assets/index.html-Dwl715NA.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-CGqziuTM.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-Bd5pW2JX.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-d5YJywQY.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-C1vtxAB_.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-CoN1TGN9.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-BFcKA6Pi.js" as="script"><link rel="prefetch" href="/cv/assets/index.html-DZw47_0U.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="vp-theme-container" vp-container data-v-ec9917b8><main class="page" data-v-ec9917b8><div vp-content data-v-ec9917b8><h1 data-v-ec9917b8>404</h1><blockquote data-v-ec9917b8>There&#39;s nothing here.</blockquote><a class="route-link" href="/cv/" data-v-ec9917b8>Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/cv/assets/app-BGBpchYB.js" defer></script>
+  </body>
+</html>
