@@ -1,16 +1,3 @@
 import comp from "C:/Users/zheer/cv/docs/.vuepress/.temp/pages/services/web-development/index.html.vue"
-const data = JSON.parse("{\"path\":\"/services/web-development/\",\"title\":\"Web Development Services\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Our Expertise\",\"slug\":\"our-expertise\",\"link\":\"#our-expertise\",\"children\":[{\"level\":3,\"title\":\"Frontend Development\",\"slug\":\"frontend-development\",\"link\":\"#frontend-development\",\"children\":[]},{\"level\":3,\"title\":\"Backend Development\",\"slug\":\"backend-development\",\"link\":\"#backend-development\",\"children\":[]},{\"level\":3,\"title\":\"Full-Stack Solutions\",\"slug\":\"full-stack-solutions\",\"link\":\"#full-stack-solutions\",\"children\":[]}]},{\"level\":2,\"title\":\"Technologies We Use\",\"slug\":\"technologies-we-use\",\"link\":\"#technologies-we-use\",\"children\":[]},{\"level\":2,\"title\":\"Our Process\",\"slug\":\"our-process\",\"link\":\"#our-process\",\"children\":[]},{\"level\":2,\"title\":\"Project Examples\",\"slug\":\"project-examples\",\"link\":\"#project-examples\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"services/web-development/README.md\"}")
+const data = JSON.parse("{\"path\":\"/services/web-development/\",\"title\":\"Web Development Projects\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Frontend Projects\",\"slug\":\"frontend-projects\",\"link\":\"#frontend-projects\",\"children\":[{\"level\":3,\"title\":\"React Applications\",\"slug\":\"react-applications\",\"link\":\"#react-applications\",\"children\":[]},{\"level\":3,\"title\":\"Vue.js Projects\",\"slug\":\"vue-js-projects\",\"link\":\"#vue-js-projects\",\"children\":[]},{\"level\":3,\"title\":\"Responsive Design\",\"slug\":\"responsive-design\",\"link\":\"#responsive-design\",\"children\":[]}]},{\"level\":2,\"title\":\"Backend Projects\",\"slug\":\"backend-projects\",\"link\":\"#backend-projects\",\"children\":[{\"level\":3,\"title\":\"Node.js Applications\",\"slug\":\"node-js-applications\",\"link\":\"#node-js-applications\",\"children\":[]},{\"level\":3,\"title\":\"Database Design\",\"slug\":\"database-design\",\"link\":\"#database-design\",\"children\":[]}]},{\"level\":2,\"title\":\"Technologies I Use\",\"slug\":\"technologies-i-use\",\"link\":\"#technologies-i-use\",\"children\":[]},{\"level\":2,\"title\":\"Project Highlights\",\"slug\":\"project-highlights\",\"link\":\"#project-highlights\",\"children\":[]}],\"git\":{\"updatedTime\":1759727849000,\"contributors\":[{\"name\":\"zheers9\",\"username\":\"zheers9\",\"email\":\"zheersalam518@gmail.com\",\"commits\":1,\"url\":\"https://github.com/zheers9\"}],\"changelog\":[{\"hash\":\"111ee55f9a1007dbec9d7074494df70c216acd89\",\"time\":1759727849000,\"email\":\"zheersalam518@gmail.com\",\"author\":\"zheers9\",\"message\":\"create project\"}]},\"filePathRelative\":\"services/web-development/README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

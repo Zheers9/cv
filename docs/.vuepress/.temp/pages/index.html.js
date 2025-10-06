@@ -1,16 +1,3 @@
 import comp from "C:/Users/zheer/cv/docs/.vuepress/.temp/pages/index.html.vue"
-const data = JSON.parse("{\"path\":\"/\",\"title\":\"Welcome to My Site\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"What you'll find here\",\"slug\":\"what-you-ll-find-here\",\"link\":\"#what-you-ll-find-here\",\"children\":[]},{\"level\":2,\"title\":\"Getting Started\",\"slug\":\"getting-started\",\"link\":\"#getting-started\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"README.md\"}")
+const data = JSON.parse("{\"path\":\"/\",\"title\":\"Welcome to My Portfolio\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"About This Site\",\"slug\":\"about-this-site\",\"link\":\"#about-this-site\",\"children\":[]},{\"level\":2,\"title\":\"What You'll Find Here\",\"slug\":\"what-you-ll-find-here\",\"link\":\"#what-you-ll-find-here\",\"children\":[]},{\"level\":2,\"title\":\"Quick Overview\",\"slug\":\"quick-overview\",\"link\":\"#quick-overview\",\"children\":[]}],\"git\":{\"updatedTime\":1759727849000,\"contributors\":[{\"name\":\"zheers9\",\"username\":\"zheers9\",\"email\":\"zheersalam518@gmail.com\",\"commits\":1,\"url\":\"https://github.com/zheers9\"}],\"changelog\":[{\"hash\":\"111ee55f9a1007dbec9d7074494df70c216acd89\",\"time\":1759727849000,\"email\":\"zheersalam518@gmail.com\",\"author\":\"zheers9\",\"message\":\"create project\"}]},\"filePathRelative\":\"README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

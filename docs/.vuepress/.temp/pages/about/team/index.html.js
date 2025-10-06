@@ -1,16 +1,3 @@
 import comp from "C:/Users/zheer/cv/docs/.vuepress/.temp/pages/about/team/index.html.vue"
-const data = JSON.parse("{\"path\":\"/about/team/\",\"title\":\"Our Team\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Leadership Team\",\"slug\":\"leadership-team\",\"link\":\"#leadership-team\",\"children\":[{\"level\":3,\"title\":\"John Smith\",\"slug\":\"john-smith\",\"link\":\"#john-smith\",\"children\":[]},{\"level\":3,\"title\":\"Jane Doe\",\"slug\":\"jane-doe\",\"link\":\"#jane-doe\",\"children\":[]}]},{\"level\":2,\"title\":\"Development Team\",\"slug\":\"development-team\",\"link\":\"#development-team\",\"children\":[{\"level\":3,\"title\":\"Mike Johnson\",\"slug\":\"mike-johnson\",\"link\":\"#mike-johnson\",\"children\":[]},{\"level\":3,\"title\":\"Sarah Wilson\",\"slug\":\"sarah-wilson\",\"link\":\"#sarah-wilson\",\"children\":[]}]},{\"level\":2,\"title\":\"Why We're Different\",\"slug\":\"why-we-re-different\",\"link\":\"#why-we-re-different\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"about/team/README.md\"}")
+const data = JSON.parse("{\"path\":\"/about/team/\",\"title\":\"My Background\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Education\",\"slug\":\"education\",\"link\":\"#education\",\"children\":[{\"level\":3,\"title\":\"Computer Science Degree\",\"slug\":\"computer-science-degree\",\"link\":\"#computer-science-degree\",\"children\":[]},{\"level\":3,\"title\":\"Certifications\",\"slug\":\"certifications\",\"link\":\"#certifications\",\"children\":[]}]},{\"level\":2,\"title\":\"Professional Development\",\"slug\":\"professional-development\",\"link\":\"#professional-development\",\"children\":[{\"level\":3,\"title\":\"Continuous Learning\",\"slug\":\"continuous-learning\",\"link\":\"#continuous-learning\",\"children\":[]},{\"level\":3,\"title\":\"Key Skills Developed\",\"slug\":\"key-skills-developed\",\"link\":\"#key-skills-developed\",\"children\":[]}]},{\"level\":2,\"title\":\"Why I'm Different\",\"slug\":\"why-i-m-different\",\"link\":\"#why-i-m-different\",\"children\":[]}],\"git\":{\"updatedTime\":1759727849000,\"contributors\":[{\"name\":\"zheers9\",\"username\":\"zheers9\",\"email\":\"zheersalam518@gmail.com\",\"commits\":1,\"url\":\"https://github.com/zheers9\"}],\"changelog\":[{\"hash\":\"111ee55f9a1007dbec9d7074494df70c216acd89\",\"time\":1759727849000,\"email\":\"zheersalam518@gmail.com\",\"author\":\"zheers9\",\"message\":\"create project\"}]},\"filePathRelative\":\"about/team/README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

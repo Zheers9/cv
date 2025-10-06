@@ -1,15 +1,19 @@
-# Welcome to My Site
+# Welcome to My Portfolio
 
-This is the **homepage** of my VuePress multipage site.
+Hi! I'm **Zheer**, a passionate developer and creative professional.
 
-## What you'll find here
+## About This Site
 
-- **About** - Learn more about our company
-- **Services** - Discover what we offer
-- **Contact** - Get in touch with us
+This is my personal portfolio website built with VuePress, showcasing my work and skills.
 
-## Getting Started
+## What You'll Find Here
 
-This site is built with VuePress and features multiple pages organized in folders.
+- **About Me** - Learn more about my background and experience
+- **Skills & Projects** - Explore my technical abilities and portfolio
+- **Contact** - Get in touch with me
 
-Visit our [About page](/about/) to learn more about us.
+## Quick Overview
+
+I'm a dedicated professional with expertise in modern web technologies and a passion for creating innovative solutions.
+
+Visit my [About page](/about/) to learn more about my journey.

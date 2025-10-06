@@ -1,44 +1,45 @@
-# Our History
+# My Experience
 
-Learn about our **journey** and how we got to where we are today.
+Learn about my **professional journey** and key experiences.
 
 ## Timeline
 
-### 2020 - The Beginning
-- Company founded
-- First client projects
-- Small team of 3 people
+### 2020 - Learning Phase
+- Started computer science degree
+- First programming projects
+- Built foundation in web development
 
-### 2021 - Growth Phase
-- Expanded to 10 employees
-- New office location
-- Major client partnerships
+### 2021 - Skill Development
+- Advanced JavaScript and React
+- First freelance projects
+- Open source contributions
 
-### 2022 - Innovation
-- New service offerings
-- Technology upgrades
-- Team expansion
+### 2022 - Professional Growth
+- Internship opportunities
+- Real-world project experience
+- Specialized in frontend development
 
 ### 2023 - Present
-- 50+ team members
-- International clients
-- Industry recognition
+- Full-stack development skills
+- Portfolio projects
+- Continuous learning and improvement
 
 ## Key Milestones
 
-- **First major contract** - 2020
-- **Team expansion** - 2021
-- **New headquarters** - 2022
-- **Award recognition** - 2023
+- **First website launched** - 2021
+- **First paid project** - 2022
+- **Portfolio website** - 2023
+- **Advanced certifications** - 2023
 
-## Our Values
+## My Values
 
-Throughout our history, we've maintained our core values:
+Throughout my journey, I've maintained these core principles:
 
-- **Integrity** - Always do the right thing
-- **Innovation** - Embrace new ideas
-- **Excellence** - Deliver quality results
+- **Quality** - Always deliver my best work
+- **Learning** - Embrace new challenges and technologies
+- **Collaboration** - Work effectively with teams
+- **Innovation** - Find creative solutions to problems
 
 ---
 
-*Check out our [team page](/about/team/) to meet the people behind our success.*
+*Check out my [background page](/about/team/) to learn about my education and skills.*

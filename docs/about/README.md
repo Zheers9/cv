@@ -1,26 +1,26 @@
-# About Us
+# About Me
 
-Welcome to our **About** page! This page is located in the `/about/` folder.
+Welcome to my **About** page! Get to know me better.
 
-## Our Story
+## My Story
 
-We are a company dedicated to providing excellent services to our clients.
+I'm a passionate developer with a love for creating innovative solutions and solving complex problems.
 
-## Our Mission
+## My Mission
 
-To deliver high-quality solutions that meet our clients' needs.
+To continuously learn, grow, and contribute to meaningful projects that make a difference.
 
-## What We Do
+## What I Do
 
-- Provide professional services
-- Maintain high standards
-- Focus on customer satisfaction
+- **Web Development** - Building modern, responsive websites
+- **Problem Solving** - Finding creative solutions to technical challenges
+- **Continuous Learning** - Always exploring new technologies and methodologies
 
-## Learn More
+## My Journey
 
-- [Our Team](/about/team/)
-- [Our History](/about/history/)
+- [My Background](/about/background/)
+- [My Experience](/about/experience/)
 
 ---
 
-*This page demonstrates how VuePress handles pages in folders.*
+*This portfolio showcases my skills and projects using VuePress.*

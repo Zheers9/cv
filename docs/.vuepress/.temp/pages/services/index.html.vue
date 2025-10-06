@@ -1,50 +1,51 @@
-<template><div><h1 id="our-services" tabindex="-1"><a class="header-anchor" href="#our-services"><span>Our Services</span></a></h1>
-<p>Discover the <strong>comprehensive services</strong> we offer to help your business succeed.</p>
-<h2 id="what-we-offer" tabindex="-1"><a class="header-anchor" href="#what-we-offer"><span>What We Offer</span></a></h2>
-<h3 id="web-development" tabindex="-1"><a class="header-anchor" href="#web-development"><span>Web Development</span></a></h3>
+<template><div><h1 id="my-skills-projects" tabindex="-1"><a class="header-anchor" href="#my-skills-projects"><span>My Skills &amp; Projects</span></a></h1>
+<p>Discover my <strong>technical abilities</strong> and portfolio of work.</p>
+<h2 id="my-expertise" tabindex="-1"><a class="header-anchor" href="#my-expertise"><span>My Expertise</span></a></h2>
+<h3 id="frontend-development" tabindex="-1"><a class="header-anchor" href="#frontend-development"><span>Frontend Development</span></a></h3>
 <ul>
-<li>Custom websites</li>
-<li>E-commerce solutions</li>
-<li>Mobile-responsive design</li>
+<li>React and Vue.js applications</li>
+<li>Responsive web design</li>
+<li>Modern CSS and JavaScript</li>
 </ul>
-<h3 id="consulting" tabindex="-1"><a class="header-anchor" href="#consulting"><span>Consulting</span></a></h3>
+<h3 id="backend-development" tabindex="-1"><a class="header-anchor" href="#backend-development"><span>Backend Development</span></a></h3>
 <ul>
-<li>Business strategy</li>
-<li>Technology planning</li>
-<li>Process optimization</li>
+<li>Node.js and Express</li>
+<li>Database design and management</li>
+<li>API development</li>
 </ul>
-<h3 id="support" tabindex="-1"><a class="header-anchor" href="#support"><span>Support</span></a></h3>
+<h3 id="tools-technologies" tabindex="-1"><a class="header-anchor" href="#tools-technologies"><span>Tools &amp; Technologies</span></a></h3>
 <ul>
-<li>24/7 technical support</li>
-<li>Maintenance services</li>
-<li>Training programs</li>
+<li>Git version control</li>
+<li>Cloud deployment</li>
+<li>Testing frameworks</li>
 </ul>
-<h2 id="service-details" tabindex="-1"><a class="header-anchor" href="#service-details"><span>Service Details</span></a></h2>
-<h3 id="web-development-services" tabindex="-1"><a class="header-anchor" href="#web-development-services"><span>Web Development Services</span></a></h3>
+<h2 id="project-categories" tabindex="-1"><a class="header-anchor" href="#project-categories"><span>Project Categories</span></a></h2>
+<h3 id="web-development-projects" tabindex="-1"><a class="header-anchor" href="#web-development-projects"><span>Web Development Projects</span></a></h3>
 <ul>
-<li><strong>Frontend Development</strong> - Modern, responsive interfaces</li>
-<li><strong>Backend Development</strong> - Robust server-side solutions</li>
-<li><strong>Database Design</strong> - Efficient data management</li>
+<li><strong>Portfolio Websites</strong> - Personal and professional sites</li>
+<li><strong>E-commerce Solutions</strong> - Online stores and payment integration</li>
+<li><strong>Web Applications</strong> - Interactive user interfaces</li>
 </ul>
-<h3 id="consulting-services" tabindex="-1"><a class="header-anchor" href="#consulting-services"><span>Consulting Services</span></a></h3>
+<h3 id="full-stack-projects" tabindex="-1"><a class="header-anchor" href="#full-stack-projects"><span>Full-Stack Projects</span></a></h3>
 <ul>
-<li><strong>Strategic Planning</strong> - Long-term business goals</li>
-<li><strong>Technology Assessment</strong> - Current system evaluation</li>
-<li><strong>Implementation Support</strong> - Project execution</li>
+<li><strong>Complete Applications</strong> - End-to-end development</li>
+<li><strong>Database Integration</strong> - Efficient data management</li>
+<li><strong>API Development</strong> - RESTful services</li>
 </ul>
-<h2 id="why-choose-us" tabindex="-1"><a class="header-anchor" href="#why-choose-us"><span>Why Choose Us</span></a></h2>
+<h2 id="my-approach" tabindex="-1"><a class="header-anchor" href="#my-approach"><span>My Approach</span></a></h2>
 <ul>
-<li><strong>Expert Team</strong> - Experienced professionals</li>
-<li><strong>Quality Results</strong> - Proven track record</li>
-<li><strong>Customer Focus</strong> - Your success is our priority</li>
+<li><strong>Clean Code</strong> - Well-structured, maintainable code</li>
+<li><strong>User Experience</strong> - Intuitive and responsive design</li>
+<li><strong>Performance</strong> - Optimized for speed and efficiency</li>
+<li><strong>Best Practices</strong> - Following industry standards</li>
 </ul>
-<h2 id="learn-more" tabindex="-1"><a class="header-anchor" href="#learn-more"><span>Learn More</span></a></h2>
+<h2 id="explore-my-work" tabindex="-1"><a class="header-anchor" href="#explore-my-work"><span>Explore My Work</span></a></h2>
 <ul>
-<li><a href="/services/web-development/" target="_blank" rel="noopener noreferrer">Web Development Details</a></li>
-<li><a href="/services/consulting/" target="_blank" rel="noopener noreferrer">Consulting Services</a></li>
+<li><a href="/services/web-development/" target="_blank" rel="noopener noreferrer">Web Development Projects</a></li>
+<li><a href="/services/consulting/" target="_blank" rel="noopener noreferrer">Full-Stack Applications</a></li>
 </ul>
 <hr>
-<p><em>Ready to get started? <a href="/contact/" target="_blank" rel="noopener noreferrer">Contact us</a> today!</em></p>
+<p><em>Interested in my work? <a href="/contact/" target="_blank" rel="noopener noreferrer">Get in touch</a> to discuss opportunities!</em></p>
 </div></template>
 
 

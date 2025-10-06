@@ -1,47 +1,48 @@
-# Our Services
+# My Skills & Projects
 
-Discover the **comprehensive services** we offer to help your business succeed.
+Discover my **technical abilities** and portfolio of work.
 
-## What We Offer
+## My Expertise
 
-### Web Development
-- Custom websites
-- E-commerce solutions
-- Mobile-responsive design
+### Frontend Development
+- React and Vue.js applications
+- Responsive web design
+- Modern CSS and JavaScript
 
-### Consulting
-- Business strategy
-- Technology planning
-- Process optimization
+### Backend Development
+- Node.js and Express
+- Database design and management
+- API development
 
-### Support
-- 24/7 technical support
-- Maintenance services
-- Training programs
+### Tools & Technologies
+- Git version control
+- Cloud deployment
+- Testing frameworks
 
-## Service Details
+## Project Categories
 
-### Web Development Services
-- **Frontend Development** - Modern, responsive interfaces
-- **Backend Development** - Robust server-side solutions
-- **Database Design** - Efficient data management
+### Web Development Projects
+- **Portfolio Websites** - Personal and professional sites
+- **E-commerce Solutions** - Online stores and payment integration
+- **Web Applications** - Interactive user interfaces
 
-### Consulting Services
-- **Strategic Planning** - Long-term business goals
-- **Technology Assessment** - Current system evaluation
-- **Implementation Support** - Project execution
+### Full-Stack Projects
+- **Complete Applications** - End-to-end development
+- **Database Integration** - Efficient data management
+- **API Development** - RESTful services
 
-## Why Choose Us
+## My Approach
 
-- **Expert Team** - Experienced professionals
-- **Quality Results** - Proven track record
-- **Customer Focus** - Your success is our priority
+- **Clean Code** - Well-structured, maintainable code
+- **User Experience** - Intuitive and responsive design
+- **Performance** - Optimized for speed and efficiency
+- **Best Practices** - Following industry standards
 
-## Learn More
+## Explore My Work
 
-- [Web Development Details](/services/web-development/)
-- [Consulting Services](/services/consulting/)
+- [Web Development Projects](/services/web-development/)
+- [Full-Stack Applications](/services/consulting/)
 
 ---
 
-*Ready to get started? [Contact us](/contact/) today!*
+*Interested in my work? [Get in touch](/contact/) to discuss opportunities!*

@@ -1,46 +1,47 @@
-<template><div><h1 id="our-history" tabindex="-1"><a class="header-anchor" href="#our-history"><span>Our History</span></a></h1>
-<p>Learn about our <strong>journey</strong> and how we got to where we are today.</p>
+<template><div><h1 id="my-experience" tabindex="-1"><a class="header-anchor" href="#my-experience"><span>My Experience</span></a></h1>
+<p>Learn about my <strong>professional journey</strong> and key experiences.</p>
 <h2 id="timeline" tabindex="-1"><a class="header-anchor" href="#timeline"><span>Timeline</span></a></h2>
-<h3 id="_2020-the-beginning" tabindex="-1"><a class="header-anchor" href="#_2020-the-beginning"><span>2020 - The Beginning</span></a></h3>
+<h3 id="_2020-learning-phase" tabindex="-1"><a class="header-anchor" href="#_2020-learning-phase"><span>2020 - Learning Phase</span></a></h3>
 <ul>
-<li>Company founded</li>
-<li>First client projects</li>
-<li>Small team of 3 people</li>
+<li>Started computer science degree</li>
+<li>First programming projects</li>
+<li>Built foundation in web development</li>
 </ul>
-<h3 id="_2021-growth-phase" tabindex="-1"><a class="header-anchor" href="#_2021-growth-phase"><span>2021 - Growth Phase</span></a></h3>
+<h3 id="_2021-skill-development" tabindex="-1"><a class="header-anchor" href="#_2021-skill-development"><span>2021 - Skill Development</span></a></h3>
 <ul>
-<li>Expanded to 10 employees</li>
-<li>New office location</li>
-<li>Major client partnerships</li>
+<li>Advanced JavaScript and React</li>
+<li>First freelance projects</li>
+<li>Open source contributions</li>
 </ul>
-<h3 id="_2022-innovation" tabindex="-1"><a class="header-anchor" href="#_2022-innovation"><span>2022 - Innovation</span></a></h3>
+<h3 id="_2022-professional-growth" tabindex="-1"><a class="header-anchor" href="#_2022-professional-growth"><span>2022 - Professional Growth</span></a></h3>
 <ul>
-<li>New service offerings</li>
-<li>Technology upgrades</li>
-<li>Team expansion</li>
+<li>Internship opportunities</li>
+<li>Real-world project experience</li>
+<li>Specialized in frontend development</li>
 </ul>
 <h3 id="_2023-present" tabindex="-1"><a class="header-anchor" href="#_2023-present"><span>2023 - Present</span></a></h3>
 <ul>
-<li>50+ team members</li>
-<li>International clients</li>
-<li>Industry recognition</li>
+<li>Full-stack development skills</li>
+<li>Portfolio projects</li>
+<li>Continuous learning and improvement</li>
 </ul>
 <h2 id="key-milestones" tabindex="-1"><a class="header-anchor" href="#key-milestones"><span>Key Milestones</span></a></h2>
 <ul>
-<li><strong>First major contract</strong> - 2020</li>
-<li><strong>Team expansion</strong> - 2021</li>
-<li><strong>New headquarters</strong> - 2022</li>
-<li><strong>Award recognition</strong> - 2023</li>
+<li><strong>First website launched</strong> - 2021</li>
+<li><strong>First paid project</strong> - 2022</li>
+<li><strong>Portfolio website</strong> - 2023</li>
+<li><strong>Advanced certifications</strong> - 2023</li>
 </ul>
-<h2 id="our-values" tabindex="-1"><a class="header-anchor" href="#our-values"><span>Our Values</span></a></h2>
-<p>Throughout our history, we've maintained our core values:</p>
+<h2 id="my-values" tabindex="-1"><a class="header-anchor" href="#my-values"><span>My Values</span></a></h2>
+<p>Throughout my journey, I've maintained these core principles:</p>
 <ul>
-<li><strong>Integrity</strong> - Always do the right thing</li>
-<li><strong>Innovation</strong> - Embrace new ideas</li>
-<li><strong>Excellence</strong> - Deliver quality results</li>
+<li><strong>Quality</strong> - Always deliver my best work</li>
+<li><strong>Learning</strong> - Embrace new challenges and technologies</li>
+<li><strong>Collaboration</strong> - Work effectively with teams</li>
+<li><strong>Innovation</strong> - Find creative solutions to problems</li>
 </ul>
 <hr>
-<p><em>Check out our <a href="/about/team/" target="_blank" rel="noopener noreferrer">team page</a> to meet the people behind our success.</em></p>
+<p><em>Check out my <a href="/about/team/" target="_blank" rel="noopener noreferrer">background page</a> to learn about my education and skills.</em></p>
 </div></template>
 
 

@@ -1,56 +1,56 @@
-# Contact Us
+# Contact Me
 
-Get in touch with us! We'd love to hear from you.
+Get in touch with me! I'd love to hear from you.
 
 ## Contact Information
 
-### Phone
-**Main Office**: (555) 123-4567
-**Support Line**: (555) 123-4568
-
 ### Email
-**General Inquiries**: info@example.com
-**Support**: support@example.com
-**Sales**: sales@example.com
+**Primary**: zheer@example.com
+**Professional**: zheer.dev@example.com
 
-### Address
-**Main Office**
-123 Business Street
-Suite 100
-City, State 12345
+### Phone
+**Mobile**: (555) 123-4567
+**Available**: Monday - Friday, 9 AM - 6 PM
 
-## Office Hours
+### Location
+**Based in**: City, State
+**Remote Work**: Available worldwide
+**Time Zone**: EST (UTC-5)
 
-- **Monday - Friday**: 9:00 AM - 6:00 PM
-- **Saturday**: 10:00 AM - 4:00 PM
-- **Sunday**: Closed
+## Let's Connect
 
-## Get in Touch
+### For Job Opportunities
+I'm always interested in **exciting new opportunities** and challenging projects.
 
-### For New Projects
-Contact our **sales team** to discuss your project requirements and get a quote.
+### For Collaboration
+Looking to **collaborate** on interesting projects or open source initiatives.
 
-### For Existing Clients
-Reach out to our **support team** for assistance with your current projects.
+### For Questions
+Feel free to reach out with any **questions** about my work or technical topics.
 
-### For General Questions
-Send us an **email** and we'll get back to you within 24 hours.
+## Social Media & Profiles
 
-## Social Media
-
-- **LinkedIn**: [Our Company Page](https://linkedin.com/company/example)
-- **Twitter**: [@examplecompany](https://twitter.com/examplecompany)
-- **Facebook**: [Our Facebook Page](https://facebook.com/examplecompany)
+- **LinkedIn**: [My Professional Profile](https://linkedin.com/in/zheer)
+- **GitHub**: [My Code Repository](https://github.com/zheer)
+- **Twitter**: [@zheer_dev](https://twitter.com/zheer_dev)
+- **Portfolio**: [This Website](/)
 
 ## What to Expect
 
-When you contact us, you can expect:
+When you contact me, you can expect:
 
-- **Quick Response** - We respond within 24 hours
-- **Professional Service** - Courteous and helpful staff
-- **Expert Advice** - Knowledgeable team members
-- **Follow-up** - We ensure your needs are met
+- **Quick Response** - I typically respond within 24 hours
+- **Professional Communication** - Clear and helpful responses
+- **Technical Expertise** - Honest assessment of your project needs
+- **Follow-up** - I ensure your questions are fully answered
+
+## Availability
+
+- **Freelance Projects**: Available for short-term projects
+- **Full-time Opportunities**: Open to permanent positions
+- **Consulting**: Available for technical consulting
+- **Mentoring**: Happy to help other developers
 
 ---
 
-*Ready to start your project? [Learn about our services](/services/) or [about our company](/about/).*
+*Ready to work together? [Learn about my skills](/services/) or [read my story](/about/).*

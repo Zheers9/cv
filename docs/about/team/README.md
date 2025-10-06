@@ -1,35 +1,36 @@
-# Our Team
+# My Background
 
-Meet the **amazing people** who make our company great!
+Learn about my **educational background** and professional journey.
 
-## Leadership Team
+## Education
 
-### John Smith
-**CEO and Founder**
-- 10+ years of experience
-- Passionate about innovation
+### Computer Science Degree
+**University Name** - 2020-2024
+- Focus on software engineering
+- Strong foundation in algorithms and data structures
+- Relevant coursework in web development
 
-### Jane Doe
-**CTO**
-- Technical expertise
-- Team leadership
+### Certifications
+- **Web Development Certification** - 2023
+- **JavaScript Specialist** - 2022
+- **React Developer** - 2023
 
-## Development Team
+## Professional Development
 
-### Mike Johnson
-**Senior Developer**
-- Full-stack expertise
-- Problem solver
+### Continuous Learning
+- Online courses and tutorials
+- Open source contributions
+- Personal projects and experimentation
 
-### Sarah Wilson
-**UI/UX Designer**
-- Creative vision
-- User-focused design
+### Key Skills Developed
+- **Programming Languages** - JavaScript, Python, Java
+- **Web Technologies** - HTML, CSS, React, Vue.js
+- **Tools & Frameworks** - Git, Node.js, Express
 
-## Why We're Different
+## Why I'm Different
 
-Our team brings together diverse skills and experiences to deliver exceptional results for our clients.
+I bring a unique combination of technical skills, creative thinking, and a passion for continuous learning to every project.
 
 ---
 
-*Visit our [main About page](/about/) to learn more about our company.*
+*Check out my [experience page](/about/experience/) to see my professional journey.*

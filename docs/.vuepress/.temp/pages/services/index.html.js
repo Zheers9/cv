@@ -1,16 +1,3 @@
 import comp from "C:/Users/zheer/cv/docs/.vuepress/.temp/pages/services/index.html.vue"
-const data = JSON.parse("{\"path\":\"/services/\",\"title\":\"Our Services\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"What We Offer\",\"slug\":\"what-we-offer\",\"link\":\"#what-we-offer\",\"children\":[{\"level\":3,\"title\":\"Web Development\",\"slug\":\"web-development\",\"link\":\"#web-development\",\"children\":[]},{\"level\":3,\"title\":\"Consulting\",\"slug\":\"consulting\",\"link\":\"#consulting\",\"children\":[]},{\"level\":3,\"title\":\"Support\",\"slug\":\"support\",\"link\":\"#support\",\"children\":[]}]},{\"level\":2,\"title\":\"Service Details\",\"slug\":\"service-details\",\"link\":\"#service-details\",\"children\":[{\"level\":3,\"title\":\"Web Development Services\",\"slug\":\"web-development-services\",\"link\":\"#web-development-services\",\"children\":[]},{\"level\":3,\"title\":\"Consulting Services\",\"slug\":\"consulting-services\",\"link\":\"#consulting-services\",\"children\":[]}]},{\"level\":2,\"title\":\"Why Choose Us\",\"slug\":\"why-choose-us\",\"link\":\"#why-choose-us\",\"children\":[]},{\"level\":2,\"title\":\"Learn More\",\"slug\":\"learn-more\",\"link\":\"#learn-more\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"services/README.md\"}")
+const data = JSON.parse("{\"path\":\"/services/\",\"title\":\"My Skills & Projects\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"My Expertise\",\"slug\":\"my-expertise\",\"link\":\"#my-expertise\",\"children\":[{\"level\":3,\"title\":\"Frontend Development\",\"slug\":\"frontend-development\",\"link\":\"#frontend-development\",\"children\":[]},{\"level\":3,\"title\":\"Backend Development\",\"slug\":\"backend-development\",\"link\":\"#backend-development\",\"children\":[]},{\"level\":3,\"title\":\"Tools & Technologies\",\"slug\":\"tools-technologies\",\"link\":\"#tools-technologies\",\"children\":[]}]},{\"level\":2,\"title\":\"Project Categories\",\"slug\":\"project-categories\",\"link\":\"#project-categories\",\"children\":[{\"level\":3,\"title\":\"Web Development Projects\",\"slug\":\"web-development-projects\",\"link\":\"#web-development-projects\",\"children\":[]},{\"level\":3,\"title\":\"Full-Stack Projects\",\"slug\":\"full-stack-projects\",\"link\":\"#full-stack-projects\",\"children\":[]}]},{\"level\":2,\"title\":\"My Approach\",\"slug\":\"my-approach\",\"link\":\"#my-approach\",\"children\":[]},{\"level\":2,\"title\":\"Explore My Work\",\"slug\":\"explore-my-work\",\"link\":\"#explore-my-work\",\"children\":[]}],\"git\":{\"updatedTime\":1759727849000,\"contributors\":[{\"name\":\"zheers9\",\"username\":\"zheers9\",\"email\":\"zheersalam518@gmail.com\",\"commits\":1,\"url\":\"https://github.com/zheers9\"}],\"changelog\":[{\"hash\":\"111ee55f9a1007dbec9d7074494df70c216acd89\",\"time\":1759727849000,\"email\":\"zheersalam518@gmail.com\",\"author\":\"zheers9\",\"message\":\"create project\"}]},\"filePathRelative\":\"services/README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

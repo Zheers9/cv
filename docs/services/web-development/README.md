@@ -1,45 +1,49 @@
-# Web Development Services
+# Web Development Projects
 
-Professional **web development** solutions tailored to your business needs.
+Explore my **frontend and backend** development projects and skills.
 
-## Our Expertise
+## Frontend Projects
 
-### Frontend Development
-- **React Applications** - Modern, interactive user interfaces
-- **Vue.js Solutions** - Flexible, component-based architecture
-- **Responsive Design** - Mobile-first approach
+### React Applications
+- **Portfolio Website** - This VuePress site showcasing my work
+- **Task Management App** - Interactive todo application with state management
+- **Weather Dashboard** - Real-time weather data with API integration
 
-### Backend Development
-- **Node.js Applications** - Scalable server-side solutions
-- **Database Integration** - Efficient data management
-- **API Development** - RESTful and GraphQL APIs
+### Vue.js Projects
+- **E-commerce Store** - Online shopping platform with cart functionality
+- **Blog Platform** - Content management system with user authentication
+- **Dashboard Application** - Data visualization and analytics interface
 
-### Full-Stack Solutions
-- **Complete Web Applications** - End-to-end development
-- **E-commerce Platforms** - Online store solutions
-- **Content Management Systems** - Easy-to-use admin interfaces
+### Responsive Design
+- **Mobile-First Approach** - All projects optimized for mobile devices
+- **Cross-Browser Compatibility** - Ensuring consistent experience
+- **Accessibility Features** - WCAG compliant interfaces
 
-## Technologies We Use
+## Backend Projects
 
-- **Frontend**: React, Vue.js, HTML5, CSS3, JavaScript
-- **Backend**: Node.js, Python, PHP, Java
+### Node.js Applications
+- **RESTful APIs** - Server-side logic and database integration
+- **Authentication Systems** - Secure user login and session management
+- **Real-time Features** - WebSocket implementations for live updates
+
+### Database Design
+- **MySQL Projects** - Relational database design and optimization
+- **MongoDB Applications** - NoSQL database integration
+- **Data Modeling** - Efficient schema design and relationships
+
+## Technologies I Use
+
+- **Frontend**: React, Vue.js, HTML5, CSS3, JavaScript ES6+
+- **Backend**: Node.js, Express, Python, PHP
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Cloud**: AWS, Azure, Google Cloud
+- **Tools**: Git, Webpack, Vite, Docker
 
-## Our Process
+## Project Highlights
 
-1. **Discovery** - Understanding your requirements
-2. **Planning** - Creating detailed project roadmap
-3. **Development** - Building your solution
-4. **Testing** - Ensuring quality and functionality
-5. **Deployment** - Going live with support
-
-## Project Examples
-
-- **E-commerce Website** - Online store with payment integration
-- **Corporate Website** - Professional business presence
-- **Web Application** - Custom business solution
+- **Portfolio Website** - Built with VuePress and deployed on GitHub Pages
+- **E-commerce Platform** - Full-stack application with payment integration
+- **API Development** - RESTful services with comprehensive documentation
 
 ---
 
-*Interested in our web development services? [Contact us](/contact/) for a consultation.*
+*Want to see more of my work? [Contact me](/contact/) to discuss my projects.*

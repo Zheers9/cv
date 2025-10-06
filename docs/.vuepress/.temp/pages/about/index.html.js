@@ -1,16 +1,3 @@
 import comp from "C:/Users/zheer/cv/docs/.vuepress/.temp/pages/about/index.html.vue"
-const data = JSON.parse("{\"path\":\"/about/\",\"title\":\"About Us\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"Our Story\",\"slug\":\"our-story\",\"link\":\"#our-story\",\"children\":[]},{\"level\":2,\"title\":\"Our Mission\",\"slug\":\"our-mission\",\"link\":\"#our-mission\",\"children\":[]},{\"level\":2,\"title\":\"What We Do\",\"slug\":\"what-we-do\",\"link\":\"#what-we-do\",\"children\":[]},{\"level\":2,\"title\":\"Learn More\",\"slug\":\"learn-more\",\"link\":\"#learn-more\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"about/README.md\"}")
+const data = JSON.parse("{\"path\":\"/about/\",\"title\":\"About Me\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"My Story\",\"slug\":\"my-story\",\"link\":\"#my-story\",\"children\":[]},{\"level\":2,\"title\":\"My Mission\",\"slug\":\"my-mission\",\"link\":\"#my-mission\",\"children\":[]},{\"level\":2,\"title\":\"What I Do\",\"slug\":\"what-i-do\",\"link\":\"#what-i-do\",\"children\":[]},{\"level\":2,\"title\":\"My Journey\",\"slug\":\"my-journey\",\"link\":\"#my-journey\",\"children\":[]}],\"git\":{\"updatedTime\":1759727849000,\"contributors\":[{\"name\":\"zheers9\",\"username\":\"zheers9\",\"email\":\"zheersalam518@gmail.com\",\"commits\":1,\"url\":\"https://github.com/zheers9\"}],\"changelog\":[{\"hash\":\"111ee55f9a1007dbec9d7074494df70c216acd89\",\"time\":1759727849000,\"email\":\"zheersalam518@gmail.com\",\"author\":\"zheers9\",\"message\":\"create project\"}]},\"filePathRelative\":\"about/README.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

@@ -2,8 +2,8 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { viteBundler } from '@vuepress/bundler-vite'
 
 export default {
-  title: 'My VuePress Site',
-  description: 'A simple multipage VuePress site',
+  title: 'Zheer - Portfolio',
+  description: 'Personal portfolio showcasing my skills and projects',
   base: '/cv/',
   
   bundler: viteBundler({}),
@@ -19,7 +19,7 @@ export default {
         link: '/about/',
       },
       {
-        text: 'Services',
+        text: 'Skills & Projects',
         link: '/services/',
       },
       {
@@ -31,7 +31,7 @@ export default {
     sidebar: {
       '/about/': [
         {
-          text: 'About',
+          text: 'About Me',
           children: [
             '/about/',
             '/about/team/',
@@ -41,7 +41,7 @@ export default {
       ],
       '/services/': [
         {
-          text: 'Services',
+          text: 'Skills & Projects',
           children: [
             '/services/',
             '/services/web-development/',

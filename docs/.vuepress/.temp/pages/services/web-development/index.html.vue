@@ -1,47 +1,52 @@
-<template><div><h1 id="web-development-services" tabindex="-1"><a class="header-anchor" href="#web-development-services"><span>Web Development Services</span></a></h1>
-<p>Professional <strong>web development</strong> solutions tailored to your business needs.</p>
-<h2 id="our-expertise" tabindex="-1"><a class="header-anchor" href="#our-expertise"><span>Our Expertise</span></a></h2>
-<h3 id="frontend-development" tabindex="-1"><a class="header-anchor" href="#frontend-development"><span>Frontend Development</span></a></h3>
+<template><div><h1 id="web-development-projects" tabindex="-1"><a class="header-anchor" href="#web-development-projects"><span>Web Development Projects</span></a></h1>
+<p>Explore my <strong>frontend and backend</strong> development projects and skills.</p>
+<h2 id="frontend-projects" tabindex="-1"><a class="header-anchor" href="#frontend-projects"><span>Frontend Projects</span></a></h2>
+<h3 id="react-applications" tabindex="-1"><a class="header-anchor" href="#react-applications"><span>React Applications</span></a></h3>
 <ul>
-<li><strong>React Applications</strong> - Modern, interactive user interfaces</li>
-<li><strong>Vue.js Solutions</strong> - Flexible, component-based architecture</li>
-<li><strong>Responsive Design</strong> - Mobile-first approach</li>
+<li><strong>Portfolio Website</strong> - This VuePress site showcasing my work</li>
+<li><strong>Task Management App</strong> - Interactive todo application with state management</li>
+<li><strong>Weather Dashboard</strong> - Real-time weather data with API integration</li>
 </ul>
-<h3 id="backend-development" tabindex="-1"><a class="header-anchor" href="#backend-development"><span>Backend Development</span></a></h3>
+<h3 id="vue-js-projects" tabindex="-1"><a class="header-anchor" href="#vue-js-projects"><span>Vue.js Projects</span></a></h3>
 <ul>
-<li><strong>Node.js Applications</strong> - Scalable server-side solutions</li>
-<li><strong>Database Integration</strong> - Efficient data management</li>
-<li><strong>API Development</strong> - RESTful and GraphQL APIs</li>
+<li><strong>E-commerce Store</strong> - Online shopping platform with cart functionality</li>
+<li><strong>Blog Platform</strong> - Content management system with user authentication</li>
+<li><strong>Dashboard Application</strong> - Data visualization and analytics interface</li>
 </ul>
-<h3 id="full-stack-solutions" tabindex="-1"><a class="header-anchor" href="#full-stack-solutions"><span>Full-Stack Solutions</span></a></h3>
+<h3 id="responsive-design" tabindex="-1"><a class="header-anchor" href="#responsive-design"><span>Responsive Design</span></a></h3>
 <ul>
-<li><strong>Complete Web Applications</strong> - End-to-end development</li>
-<li><strong>E-commerce Platforms</strong> - Online store solutions</li>
-<li><strong>Content Management Systems</strong> - Easy-to-use admin interfaces</li>
+<li><strong>Mobile-First Approach</strong> - All projects optimized for mobile devices</li>
+<li><strong>Cross-Browser Compatibility</strong> - Ensuring consistent experience</li>
+<li><strong>Accessibility Features</strong> - WCAG compliant interfaces</li>
 </ul>
-<h2 id="technologies-we-use" tabindex="-1"><a class="header-anchor" href="#technologies-we-use"><span>Technologies We Use</span></a></h2>
+<h2 id="backend-projects" tabindex="-1"><a class="header-anchor" href="#backend-projects"><span>Backend Projects</span></a></h2>
+<h3 id="node-js-applications" tabindex="-1"><a class="header-anchor" href="#node-js-applications"><span>Node.js Applications</span></a></h3>
 <ul>
-<li><strong>Frontend</strong>: React, Vue.js, HTML5, CSS3, JavaScript</li>
-<li><strong>Backend</strong>: Node.js, Python, PHP, Java</li>
+<li><strong>RESTful APIs</strong> - Server-side logic and database integration</li>
+<li><strong>Authentication Systems</strong> - Secure user login and session management</li>
+<li><strong>Real-time Features</strong> - WebSocket implementations for live updates</li>
+</ul>
+<h3 id="database-design" tabindex="-1"><a class="header-anchor" href="#database-design"><span>Database Design</span></a></h3>
+<ul>
+<li><strong>MySQL Projects</strong> - Relational database design and optimization</li>
+<li><strong>MongoDB Applications</strong> - NoSQL database integration</li>
+<li><strong>Data Modeling</strong> - Efficient schema design and relationships</li>
+</ul>
+<h2 id="technologies-i-use" tabindex="-1"><a class="header-anchor" href="#technologies-i-use"><span>Technologies I Use</span></a></h2>
+<ul>
+<li><strong>Frontend</strong>: React, Vue.js, HTML5, CSS3, JavaScript ES6+</li>
+<li><strong>Backend</strong>: Node.js, Express, Python, PHP</li>
 <li><strong>Databases</strong>: MySQL, PostgreSQL, MongoDB</li>
-<li><strong>Cloud</strong>: AWS, Azure, Google Cloud</li>
+<li><strong>Tools</strong>: Git, Webpack, Vite, Docker</li>
 </ul>
-<h2 id="our-process" tabindex="-1"><a class="header-anchor" href="#our-process"><span>Our Process</span></a></h2>
-<ol>
-<li><strong>Discovery</strong> - Understanding your requirements</li>
-<li><strong>Planning</strong> - Creating detailed project roadmap</li>
-<li><strong>Development</strong> - Building your solution</li>
-<li><strong>Testing</strong> - Ensuring quality and functionality</li>
-<li><strong>Deployment</strong> - Going live with support</li>
-</ol>
-<h2 id="project-examples" tabindex="-1"><a class="header-anchor" href="#project-examples"><span>Project Examples</span></a></h2>
+<h2 id="project-highlights" tabindex="-1"><a class="header-anchor" href="#project-highlights"><span>Project Highlights</span></a></h2>
 <ul>
-<li><strong>E-commerce Website</strong> - Online store with payment integration</li>
-<li><strong>Corporate Website</strong> - Professional business presence</li>
-<li><strong>Web Application</strong> - Custom business solution</li>
+<li><strong>Portfolio Website</strong> - Built with VuePress and deployed on GitHub Pages</li>
+<li><strong>E-commerce Platform</strong> - Full-stack application with payment integration</li>
+<li><strong>API Development</strong> - RESTful services with comprehensive documentation</li>
 </ul>
 <hr>
-<p><em>Interested in our web development services? <a href="/contact/" target="_blank" rel="noopener noreferrer">Contact us</a> for a consultation.</em></p>
+<p><em>Want to see more of my work? <a href="/contact/" target="_blank" rel="noopener noreferrer">Contact me</a> to discuss my projects.</em></p>
 </div></template>
 
 
